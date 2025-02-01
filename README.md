@@ -6,12 +6,6 @@ This repository contains a Python script for performing sentiment analysis on Tw
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Results](#results)
-- [License](#license)
 
 ## Overview
 
